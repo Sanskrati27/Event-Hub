@@ -39,7 +39,7 @@ Event Hub is a Java-based web application designed to simplify the organization 
 
 3. Set up the database:  
    - Install Oracle and create a database.  
-   - Run the SQL script provided in the `database` folder to initialize the schema.  
+   - Run the SQL script provided in the `database.txt` file to initialize the schema.  
 
 4. Configure the application:  
    - Update database connection details in the configuration file (`config.properties` or equivalent).  
@@ -71,12 +71,6 @@ We welcome contributions! If you'd like to contribute:
    ## git push origin feature-name  
    
 4. Open a pull request.  
-
----
-
-## License  
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.  
 
 ---
 
